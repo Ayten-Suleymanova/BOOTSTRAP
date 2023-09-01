@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://cdn.sortiraparis.com/images/1001/62403/773471-fete-nationale-14-juillet-un-bal-populaire-avec-radio-nova-a-saint-ouen-93-le-13-juillet-2022.jpg);
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100%;
+}
+
+.navbar-brand {
+  letter-spacing: 5px;
+}
+.navbar-brand .button-example {
+  color: white;
+  width: 20px;
+}
+
+.main {
+  height: 500px;
+}
+
+p {
+  font-size: 40px;
+}/*# sourceMappingURL=style.css.map */
